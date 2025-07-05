@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/j-shifat-18/j-shifat-18/main/banner.png](https://i.ibb.co/C5dBMmT0/Black-Modern-Personal-Linked-In-Banner.png)" alt="Sifat Banner" />
+  <img src="https://i.ibb.co/C5dBMmT0/Black-Modern-Personal-Linked-In-Banner.png" alt="Sifat Banner" />
 </p>
 
 ---
