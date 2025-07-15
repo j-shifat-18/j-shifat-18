@@ -68,27 +68,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-shifat-18&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j-shifat-18&radius=16&theme=react&area=true&order=5" height="300" alt="GitHub Activity Graph" />
-</div>
-
----
-## 🌐 Let’s Connect
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
----
-
-> _“Your journey to Jannah can be paved with good code and good character.”_ ✨
