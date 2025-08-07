@@ -1,0 +1,66 @@
+<svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    <![CDATA[
+      @keyframes float {
+        0% { transform: translateY(0); opacity: 1; }
+        50% { transform: translateY(-10px); opacity: 0.8; }
+        100% { transform: translateY(0); opacity: 1; }
+      }
+
+      .background {
+        fill: url(#gradient);
+      }
+
+      .particle {
+        animation: float 4s ease-in-out infinite;
+        opacity: 0.3;
+      }
+
+      text {
+        font-family: 'Segoe UI', sans-serif;
+        fill: #ffffff;
+      }
+
+      .name {
+        font-size: 32px;
+        font-weight: bold;
+      }
+
+      .title {
+        font-size: 18px;
+        fill: #6DC1FF;
+      }
+
+      .bio {
+        font-size: 14px;
+        fill: #89CFF0;
+      }
+    ]]>
+  </style>
+
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1B2A" />
+      <stop offset="100%" stop-color="#102841" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" class="background" />
+
+  <!-- Floating particles -->
+  <circle class="particle" cx="20%" cy="30%" r="2" fill="#4DA8DA">
+    <animate attributeName="cy" values="30%;25%;30%" dur="6s" repeatCount="indefinite" />
+  </circle>
+  <circle class="particle" cx="60%" cy="50%" r="2" fill="#6DC1FF">
+    <animate attributeName="cy" values="50%;45%;50%" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle class="particle" cx="80%" cy="70%" r="2" fill="#4DA8DA">
+    <animate attributeName="cy" values="70%;65%;70%" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Your text info -->
+  <text x="50%" y="110" text-anchor="middle" class="name">MD Jahirul Islam Sifat</text>
+  <text x="50%" y="140" text-anchor="middle" class="title">Full Stack Developer | Aspiring Software Engineer</text>
+  <text x="50%" y="170" text-anchor="middle" class="bio">info.jahirulsifat@gmail.com | React • Tailwind • Firebase</text>
+</svg>
