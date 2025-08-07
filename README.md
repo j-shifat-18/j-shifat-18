@@ -5,7 +5,7 @@
 
 ---
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=highcontrast&card_width=550)](https://git.io/streak-stats)</div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=j-shifat-18&theme=highcontrast&card_width=550" alt="GitHub Streak" /></a></div>
 
 🌟 Hey there! I'm **Shifat**, an aspiring **Software Engineer** who enjoys crafting digital solutions that are functional, beautiful, and secure.
 
