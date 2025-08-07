@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co.com/20YTZ25x/Black-Modern-Personal-Linked-In-Banner2.png" alt="Sifat Banner" />
-</p>
+![My Banner](https://j-shifat-18.github.io/j-shifat-18/assets/banner.svg)
 
 ---
 
