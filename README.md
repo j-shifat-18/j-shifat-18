@@ -5,7 +5,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=j-shifat-18)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=dark&card_width=550)](https://git.io/streak-stats)
 
 🌟 Hey there! I'm **Shifat**, an aspiring **Software Engineer** who enjoys crafting digital solutions that are functional, beautiful, and secure.
 
