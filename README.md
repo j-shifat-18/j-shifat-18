@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/C5dBMmT0/Black-Modern-Personal-Linked-In-Banner.png" alt="Sifat Banner" />
+  <img src="https://i.ibb.co.com/20YTZ25x/Black-Modern-Personal-Linked-In-Banner2.png" alt="Sifat Banner" />
 </p>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=dark&card_width=550)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=highcontrast&card_width=550)](https://git.io/streak-stats)</div>
 
 🌟 Hey there! I'm **Shifat**, an aspiring **Software Engineer** who enjoys crafting digital solutions that are functional, beautiful, and secure.
 
