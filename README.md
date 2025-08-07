@@ -1,20 +1,19 @@
-<!-- Banner -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 ![My Banner](https://j-shifat-18.github.io/j-shifat-18/assets/banner.svg)
-
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=highcontrast&card_width=550)](https://git.io/streak-stats)
-
-🌟 Hey there! I'm **Shifat**, an aspiring **Software Engineer** who enjoys crafting digital solutions that are functional, beautiful, and secure.
 
 🚀 Currently learning and working on:
 - 🌐 Full Stack Web Development (MERN Stack)
 - 🧠 Object-Oriented Programming with Java
 - 🧩 Competitive Programming 
 - 🔐 Cybersecurity fundamentals
-
-
 🎓 Studying at **Islamic University of Technology (IUT)**
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=j-shifat-18&theme=highcontrast&card_width=550)](https://git.io/streak-stats)
+
 
 ---
 
@@ -67,4 +66,17 @@
 </div>
 
 ---
+<div align="left">
+  <a href="https://www.linkedin.com/in/jahirulshifat/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.facebook.com/share/19be7mSEM6/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+
+  <a href="mailto:info.jahirulsifat@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
