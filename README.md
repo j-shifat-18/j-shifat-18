@@ -4,7 +4,6 @@
 <p align="center">
   <img src="assets/banner.gif" alt="animated banner" width="100%"/>
 </p>
----
 
 🚀 Currently learning and working on:
 - 🌐 Full Stack Web Development (MERN Stack)
