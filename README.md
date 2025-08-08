@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![My Banner](https://j-shifat-18.github.io/j-shifat-18/assets/banner.svg)
+<!-- ![My Banner](https://j-shifat-18.github.io/j-shifat-18/assets/banner.svg) -->
+<p align="center">
+  <img src="assets/banner.gif" alt="animated banner" width="100%"/>
+</p>
 ---
 
 🚀 Currently learning and working on:
