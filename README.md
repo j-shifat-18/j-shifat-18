@@ -6,7 +6,7 @@
 </p>
 
 🚀 Currently learning and working on:
-- 🌐 Full Stack Web Development (MERN Stack)
+- 🌐 Full Stack Web Development
 - 🧠 Object-Oriented Programming with Java
 - 🧩 Competitive Programming 
 - 🔐 Cybersecurity fundamentals
